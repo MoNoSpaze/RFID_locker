@@ -18,7 +18,7 @@ So we started building a locker system. that can identify user with student card
     
 Because our school requires students to use RFID student cards. Therefore, we choose to use sensors for reading RFID cards. and for the convenience of checking the usage period In the event that the locker is broken in any case, so we decided to upload the data to Google Sheets using IFTTT.    
     
-Report(TH): https://drive.google.com/drive/folders/1ch2W6jANiqrC5EuPmmAWOGhEp8XLdaLv?usp=sharing
+Report(TH): https://drive.google.com/drive/folders/1ch2W6jANiqrC5EuPmmAWOGhEp8XLdaLv?usp=sharing    
 Project Showcase: https://youtu.be/jmzwo3TbCFA
     
 ![image](https://user-images.githubusercontent.com/93368509/143443199-7256902f-e253-422d-99f1-82231b835cf8.png)
